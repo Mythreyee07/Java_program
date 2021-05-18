@@ -15,8 +15,8 @@ public class Q1_str {
             else
             {
                 System.out.print(count+""+ch+" ");
-                ch=s1.charAt(i);
                 count=1;
+                ch=s1.charAt(i);
             }
             
         }
